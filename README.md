@@ -10,9 +10,21 @@ TintTap is a minimalist color picker application crafted with Python and PySide6
 - **Cross-Platform Compatibility:** Built with Python and PySide6, TintTap runs seamlessly on various operating systems, offering versatility to users.
 
 ## Usage:
-1. Clone the repository.
-2. Install dependencies, including PySide6.
-3. Run TintTap using Python, and effortlessly pick and copy colors as needed.
+
+### For Linux:
+1. Download the [TintTap_Linux.zip](https://github.com/veloXm/TintTap/releases/download/1.0/TintTap_Linux.zip) file from the Releases section.
+2. Extract the `TintTap.zip` file to your desired location.
+```unzip TintTap_Linux.zip && cd TintTap_Linux``` to unzip the file and navigate into the extracted directory.
+OR
+```unzip TintTap_Linux.zip -d /path/to/destination``` replace /path/to/destination as per need and navigate to that path.
+3. Run the `launch.sh` script included in the extracted folder.
+```./launch.sh```
+4. Follow the prompts to start using TintTap.
+
+### For Windows:
+⚠️ YET TO WORK ON IT ⚠️
 
 ## Contribution:
 TintTap welcomes contributions from the community. Whether it's refining the interface or enhancing functionality, pull requests are appreciated.
+
+---
