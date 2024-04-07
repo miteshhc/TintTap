@@ -34,6 +34,29 @@ replace /path/to/destination as per need and navigate to that path.
 ### For Windows:
 ⚠️ YET TO WORK ON IT ⚠️
 
+
+### Alternative Method (for both Linux and Windows)
+- Dependencies:  
+git  
+Python3  
+PySide6  
+
+- Clone the repository:
+```
+git clone https://github.com/veloXm/TintTap.git
+```
+
+- Navigate to cloned directory:
+```
+cd TintTap
+```
+
+- Execute `launch.sh`
+```
+./launch.sh
+```
+
+
 ## Contribution:
 TintTap welcomes contributions from the community. Whether it's refining the interface or enhancing functionality, pull requests are appreciated.
 
