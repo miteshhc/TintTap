@@ -51,10 +51,16 @@ git clone https://github.com/veloXm/TintTap.git
 cd TintTap
 ```
 
-- Execute `launch.sh`
+- Run the `main.py`file using Python3.
 ```
-./launch.sh
+py main.py
 ```
+on Windows
+
+```
+python3 main.py
+```
+on Linux
 
 
 ## Contribution:
