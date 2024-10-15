@@ -1,6 +1,6 @@
-# TintTap - Minimalistic Python Color Picker
+# TintTap
 
-TintTap is a minimalist color picker application crafted with Python and PySide6. This lightweight tool allows users to swiftly select colors and copy their hexadecimal codes to the clipboard. TintTap's simple interface makes color picking a breeze, without any unnecessary clutter.
+TintTap is just a color picker which uses super heavy things for very simple stuff.
 
 ⚠️ Note: This project is just a simple python script which uses heavy Qt stuff just to get a simple color picker. I really wanted a great color and that too ASAP. If you already have dependencies managed on your machine, you can grab the code and use it. Otherwise, don't bother.
 
